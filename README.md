@@ -6,5 +6,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZXdjV6TTPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<iframe data-autoplay width="420" height="345" data-src="https://www.youtube.com/embed/QZXdjV6TTPc?start=6&end=10;rel=0&autoplay=1"></iframe>
+
 from IPython.display import YouTubeVideo
 YouTubeVideo('iBabBW851rM')

@@ -11,7 +11,7 @@ The colorful world we see in this work represents the equality of races on the e
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1pzO4WWtBkuq1q0IngVYJMKkmE4eIaDEb" width="65%">
 
 ## Gradual Change
-[![IMAGE ALT TEXT HERE](https://j.gifs.com/46zM57.gif)](https://www.youtube.com/embed/vpkR4jU1aec)
+[![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)
 
 ## Vedio
 [![IMAGE ALT TEXT HERE](https://j.gifs.com/XQr8Jl.gif)](https://www.youtube.com/embed/QZXdjV6TTPc)

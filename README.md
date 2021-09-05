@@ -7,7 +7,7 @@ The “Entrance and Distancing” Deals in the Digital Era.
 ## The “Entrance and Distancing” Deals in the Digital Era
 Center for Technology and Art, National Tsing Hua University - NTHU, (TW); Department of New Media Art, Taipei National University of the Arts - TNUA, (TW)
 
-[![width:10px height:1px](./images/nthu.jpg)](http://techart.nthu.edu.tw/)
+[![width:10cm height:1cm](./images/nthu.jpg)](http://techart.nthu.edu.tw/)
 
 
 ## Ars Electronica Garden Hsinchu / Taipei

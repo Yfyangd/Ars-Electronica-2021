@@ -1,13 +1,11 @@
 # Ars Electronica 2021
 The “Entrance and Distancing” Deals in the Digital Era
-[![IMAGE ALT TEXT HERE](./images/ARS1.jpg)](https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=IwAR1LmB6AC75l2ylXfFmy99nOf4rY1f6F20dCZ_xiFY2B4pvfv2I3IhYsCvU)
+[![IMAGE ALT TEXT HERE](./images/ARS1.jpg  =25x)](https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=IwAR1LmB6AC75l2ylXfFmy99nOf4rY1f6F20dCZ_xiFY2B4pvfv2I3IhYsCvU)
 
 ## The “Entrance and Distancing” Deals in the Digital Era
 Center for Technology and Art, National Tsing Hua University - NTHU, (TW); Department of New Media Art, Taipei National University of the Arts - TNUA, (TW)
 
 ## Ars Electronica Garden Hsinchu / Taipei
-<img style="float: left;" src="./images/ars.jpg" width="100%">
-
 [![IMAGE ALT TEXT HERE](./images/ars.jpg)](https://techart-ars.tw/2021/?page_id=293)
 
 # Medium . Permeation

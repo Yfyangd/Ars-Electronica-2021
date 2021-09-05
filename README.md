@@ -11,7 +11,6 @@ The colorful world we see in this work represents the equality of races on the e
 [![IMAGE ALT TEXT HERE](https://j.gifs.com/XQr8Jl.gif)](https://www.youtube.com/embed/QZXdjV6TTPc)
 
 ## Artwork
-The array (14X14) of 196 generated Images.
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1pzO4WWtBkuq1q0IngVYJMKkmE4eIaDEb" width="65%">
 
 ## Gradual Change

@@ -30,5 +30,7 @@ He has been engaged in interior design for nearly 20 years. His works have won n
 
 ## Reference/Link
 https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=IwAR1LmB6AC75l2ylXfFmy99nOf4rY1f6F20dCZ_xiFY2B4pvfv2I3IhYsCvU
+
 https://techart-ars.tw/2021/?page_id=293
+
 https://www.facebook.com/permalink.php?story_fbid=2944347522470150&id=1944000092504903

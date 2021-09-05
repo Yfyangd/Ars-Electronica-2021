@@ -1,5 +1,7 @@
 # Ars Electronica 2021
-The “Entrance and Distancing” Deals in the Digital Era
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/soumik12345/Pix2Pix/master)
+
+The “Entrance and Distancing” Deals in the Digital Era.
 [![IMAGE ALT TEXT HERE](./images/ARS1.jpg)](https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=IwAR1LmB6AC75l2ylXfFmy99nOf4rY1f6F20dCZ_xiFY2B4pvfv2I3IhYsCvU)
 
 ## The “Entrance and Distancing” Deals in the Digital Era

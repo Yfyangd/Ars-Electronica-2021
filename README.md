@@ -2,7 +2,7 @@
 ## The “Entrance and Distancing” Deals in the Digital Era
 Center for Technology and Art, National Tsing Hua University - NTHU, (TW); Department of New Media Art, Taipei National University of the Arts - TNUA, (TW)
 
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1oZp09Ozo6kfLCvISRSPtfwDB3t2bjBOk" width="30%">  <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1I0OdCo5V61lD-biTiedeFETWxM32IVpZ" width="20%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1oZp09Ozo6kfLCvISRSPtfwDB3t2bjBOk" width="30%">  <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1I0OdCo5V61lD-biTiedeFETWxM32IVpZ" width="15%">
 
 # Medium . Permeation
 Impressionism expressed the scientific meaning of "light" in artistic creation. The light color reflected by the luminous flux through the medium in the air became the concept of impressionists’ creation.

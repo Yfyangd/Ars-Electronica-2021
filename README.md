@@ -16,8 +16,6 @@ The colorful world we see in this work represents the equality of races on the e
 ## Vedio
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)
 
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS" width="65%">
-
 
 ## Authors
 ### YuanFu Yang (楊元福)

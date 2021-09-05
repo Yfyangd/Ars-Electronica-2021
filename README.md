@@ -78,3 +78,6 @@ python main.py
 ```GAN.py``` is our model to learn the style and texture of covid-19 pictures in various countries.
 
 ```Linz2021.ipynb``` is in the form of a Jupyter Notebook as a simple display of model training and a Covid-19 image generator.
+
+
+[![IMAGE ALT TEXT HERE](./images/fb.png)](https://www.facebook.com/permalink.php?story_fbid=2944347522470150&id=1944000092504903)

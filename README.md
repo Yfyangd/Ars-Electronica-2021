@@ -7,7 +7,7 @@ Center for Technology and Art, National Tsing Hua University - NTHU, (TW); Depar
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1oZp09Ozo6kfLCvISRSPtfwDB3t2bjBOk" width="30%">  <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1I0OdCo5V61lD-biTiedeFETWxM32IVpZ" width="15%">
 
 ## Ars Electronica Garden Hsinchu / Taipei
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1t5z8EbvDeMuOfTVc0bwtVq2UIsvTKo2J" width="15%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1t5z8EbvDeMuOfTVc0bwtVq2UIsvTKo2J" width="100%">
 
 # Medium . Permeation
 Impressionism expressed the scientific meaning of "light" in artistic creation. The light color reflected by the luminous flux through the medium in the air became the concept of impressionists’ creation.

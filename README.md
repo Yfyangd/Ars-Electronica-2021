@@ -1,4 +1,6 @@
-# Ars Electronica Garden Hsinchu / Taipei
+# 2021 Ars Electronica Garden Hsinchu / Taipei
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1LrILazmS1lyUff4rUnyHDyFYrSF1pAyC" width="70%">
+
 ## The “Entrance and Distancing” Deals in the Digital Era
 Center for Technology and Art, National Tsing Hua University - NTHU, (TW); Department of New Media Art, Taipei National University of the Arts - TNUA, (TW)
 

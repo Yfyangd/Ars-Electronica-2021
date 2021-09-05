@@ -13,6 +13,24 @@ The array of 196 pictures represents 196 countries were invaded by the COVID_19.
 ## Vedio
 [![IMAGE ALT TEXT HERE](https://j.gifs.com/XQr8Jl.gif)](https://www.youtube.com/embed/QZXdjV6TTPc)
 
+## Authors
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1syX4E3YIZLlTjBOYjEJ31N8SoKHnnx-N" width="65%">
+
+### YuanFu Yang
+ 
+#### Ph.D. Student / National Tsing Hua University
+#### Data Scientist / tsmc
+Born in Taipei, Taiwan in 1979. Yang is the Ph.D. student at National Tsing Hua University for his research on Artificial Intelligence (AI) to enhance human creativity. He joined Taiwan Semiconductor Manufacturing Company in 2006. Yang conducts research and production across fields such as defect inspection and yield prediction using deep learning techniques. Yang, himself, has been exploring the potential expansion of painting creativity through the AI and human experts.
+
+### Iuan Kai Fang
+
+#### International collegiate PHD program student in National Tsing Hua University, TW.
+#### Master degree in lighting design from Parsons School of Design, NY. The other’s in interior design from Chung Yuan University, TW.
+
+He has been engaged in interior design for nearly 20 years. His works have won numerous awards including Red Dot ,IF,etc. However, he just started to touch the field of AI Art . Currently, he is studying the technology of 2D single image automatic generates to a 3D model.
+
+
+
 ## Reference/Link
 https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=IwAR1LmB6AC75l2ylXfFmy99nOf4rY1f6F20dCZ_xiFY2B4pvfv2I3IhYsCvU
 https://techart-ars.tw/2021/?page_id=293

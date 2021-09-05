@@ -12,7 +12,7 @@ The colorful world we see in this work represents the equality of races on the e
 
 ## Artwork
 The array (14X14) of 196 generated Images.
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1pzO4WWtBkuq1q0IngVYJMKkmE4eIaDEb" width="65%">
+<img style="float: middle;" src="https://drive.google.com/uc?export=view&id=1pzO4WWtBkuq1q0IngVYJMKkmE4eIaDEb" width="65%">
 
 ## Gradual Change
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)

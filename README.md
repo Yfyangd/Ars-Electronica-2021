@@ -15,8 +15,7 @@ The array of 196 pictures represents 196 countries were invaded by the COVID_19.
 
 ## Authors
 ### YuanFu Yang (楊元福)
- 
-#### Ph.D. Student / National Tsing Hua University
+#### International collegiate PHD program student in National Tsing Hua University, TW.
 #### Data Scientist / tsmc
 Born in Taipei, Taiwan in 1979. Yang is the Ph.D. student at National Tsing Hua University for his research on Artificial Intelligence (AI) to enhance human creativity. He joined Taiwan Semiconductor Manufacturing Company in 2006. Yang conducts research and production across fields such as defect inspection and yield prediction using deep learning techniques. Yang, himself, has been exploring the potential expansion of painting creativity through the AI and human experts.
 ### Iuan Kai Fang (房元凱)

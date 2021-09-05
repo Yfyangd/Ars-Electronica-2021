@@ -34,3 +34,33 @@ https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=
 https://techart-ars.tw/2021/?page_id=293
 
 https://www.facebook.com/permalink.php?story_fbid=2944347522470150&id=1944000092504903
+
+## Code
+
+### Install dependencies
+
+```
+python -m pip install -r requirements.txt
+```
+
+This code was tested with python 3.7  
+
+###  Train
+This script is run at DGX-1 with 8 NVIDIA® Tesla® V100. We will use in the training tf.distribute.MirroredStrategy, that supports synchronous distributed training on multiple GPUs on one server. It creates one replica per GPU device. Each variable in the model is mirrored across all the replicas. These variables are kept in sync with each other by applying identical updates. Here is the simplest way of creating MirroredStrategy:
+
+```
+mirrored_strategy = tf.distribute.MirroredStrategy()
+```
+We used data parallelism to split the training across multiple GPUs to reduce model training time. Each GPU has a full replica of the neural network model, and the variables are updated synchronously by waiting that each GPU process its batch of data. Please refer to the following:
+
+```
+python main.py
+```
+
+## Script Introduction
+
+```main.py``` is used to train our model at DGX-1.
+
+```GAN.py``` is our model to learn the style and texture of covid-19 pictures in various countries.
+
+```Linz2021.ipynb``` is in the form of a Jupyter Notebook as a simple display of model training and a Covid-19 image generator.

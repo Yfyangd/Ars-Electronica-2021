@@ -4,10 +4,10 @@
 ## The “Entrance and Distancing” Deals in the Digital Era
 Center for Technology and Art, National Tsing Hua University - NTHU, (TW); Department of New Media Art, Taipei National University of the Arts - TNUA, (TW)
 
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1oZp09Ozo6kfLCvISRSPtfwDB3t2bjBOk" width="30%">  <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1I0OdCo5V61lD-biTiedeFETWxM32IVpZ" width="15%">
+<img style="float: left;" src="./images/nthu.jpg" width="30%">  <img style="float: left;" src="./images/og_default.jpg" width="15%">
 
 ## Ars Electronica Garden Hsinchu / Taipei
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1t5z8EbvDeMuOfTVc0bwtVq2UIsvTKo2J" width="100%">
+<img style="float: left;" src="./images/ars.jpg" width="100%">
 
 # Medium . Permeation
 Impressionism expressed the scientific meaning of "light" in artistic creation. The light color reflected by the luminous flux through the medium in the air became the concept of impressionists’ creation.
@@ -37,7 +37,7 @@ Born in Taipei, Taiwan in 1979. Yang is the Ph.D. student at National Tsing Hua 
 #### Master degree in lighting design from Parsons School of Design, NY. The other’s in interior design from Chung Yuan University, TW.
 He has been engaged in interior design for nearly 20 years. His works have won numerous awards including Red Dot ,IF,etc. However, he just started to touch the field of AI Art . Currently, he is studying the technology of 2D single image automatic generates to a 3D model.
 
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1syX4E3YIZLlTjBOYjEJ31N8SoKHnnx-N" width="30%">
+<img style="float: left;" src="./images/authors.jpg" width="30%">
 
 ## Reference/Link
 https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=IwAR1LmB6AC75l2ylXfFmy99nOf4rY1f6F20dCZ_xiFY2B4pvfv2I3IhYsCvU

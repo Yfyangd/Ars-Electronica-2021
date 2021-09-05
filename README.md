@@ -13,7 +13,7 @@ The colorful world we see in this work represents the equality of races on the e
 ## Gradual Change
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)
 
-## Vedio
+## Vedio - Artwork Statement
 [![IMAGE ALT TEXT HERE](https://j.gifs.com/XQr8Jl.gif)](https://www.youtube.com/embed/QZXdjV6TTPc)
 
 ## Authors

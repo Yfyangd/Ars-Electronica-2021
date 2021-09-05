@@ -77,5 +77,3 @@ python main.py
 
 ```Linz2021.ipynb``` is in the form of a Jupyter Notebook as a simple display of model training and a Covid-19 image generator.
 
-
-[![IMAGE ALT TEXT HERE](./images/fb.png)](https://www.facebook.com/permalink.php?story_fbid=2944347522470150&id=1944000092504903)

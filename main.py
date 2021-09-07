@@ -20,7 +20,7 @@ def run(**kwargs):
     kernel_dir=kwargs['kernel_dir']
     
     #ROOT = kernel_dir
-    ROOT = '/mnt/mldp-cifs-nas/YFYANGD/JupyterWorkspace/Linz2021/input'
+    ROOT = '/Linz2021/input'
     IMAGES = os.listdir(ROOT + '/all/')
     virus_types = os.listdir(ROOT + '/virus_types/')
     
@@ -98,12 +98,12 @@ def run(**kwargs):
     logger.info("training ok")
     
     # Model Saving
-    filename = '/mnt/mldp-cifs-nas/YFYANGD/JupyterWorkspace/Linz2021/DGX_Results/gen_model_256_10.h5'
+    filename = '/Linz2021/DGX_Results/gen_model_256_10.h5'
     tf.keras.models.save_model(generator,filename)
     logger.info("save model ok")
     
     # Virus Images Generator
-    z = zipfile.PyZipFile('/mnt/mldp-cifs-nas/YFYANGD/JupyterWorkspace/Linz2021/images_256.zip', mode='w')
+    z = zipfile.PyZipFile('/Linz2021/images_256.zip', mode='w')
     for k in range(1000):
         generated_image = generator(tf.random.normal([1, noise_dim]), training=False)
         f = str(k)+'.png'

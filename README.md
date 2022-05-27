@@ -23,7 +23,7 @@ The colorful world we see in this work represents the equality of races on the e
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=1WShAvQeCuWsfFyr6aiBVgsL-Oki0VL2W)](https://www.youtube.com/embed/QZXdjV6TTPc)
 
 ## Artwork
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1WShAvQeCuWsfFyr6aiBVgsL-Oki0VL2W" width="100%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1oWi11S6MvdDFTmNUSesZZxulN7utEXWR" width="100%">
 
 ## Gradual Change
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)

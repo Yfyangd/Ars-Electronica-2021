@@ -20,13 +20,14 @@ Through this work the diffusion path of COVID_19 spreading the molecular of the 
 The colorful world we see in this work represents the equality of races on the earth. The array of 196 pictures represents 196 countries were invaded by the COVID_19. As human beings, none of us are spared from this disaster.
 
 ## Statement
-[![IMAGE ALT TEXT HERE]](https://www.youtube.com/embed/vpkR4jU1aec)
+[![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/QZXdjV6TTPc)
 
 ## Artwork
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1pzO4WWtBkuq1q0IngVYJMKkmE4eIaDEb" width="100%">
 
 ## Gradual Change
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)
+
 
 ## Authors
 ### YuanFu Yang (楊元福)
